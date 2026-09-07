@@ -97,19 +97,6 @@ Guru Gobind Singh College for Women | 2018 – 2021
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali0095&show_icons=true&theme=default" alt="Anjali's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali0095&theme=default" alt="Anjali's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali0095&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
